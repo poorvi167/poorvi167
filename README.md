@@ -3,7 +3,7 @@
 
 
 
-
+###### - :star_struck: I am a Student who is fascinated about the uniformity and structure of Java frameworks and how some code can solve real world problems.
 ###### - 🔭 I’m currently working on Java, Data structures & Algorithms and UX Designing.
 ###### - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/poorvi-nill-803725212/), [Behance](https://www.behance.net/justPoorvi), [dribbble](https://dribbble.com/Poorvi_7).
 ###### - 😄 Pronouns: She/Her 
